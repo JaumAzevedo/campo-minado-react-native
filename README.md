@@ -1,4 +1,4 @@
-# taurus-Campo-Minado
+# campo-minado-react-native
 
 ## Description
 
